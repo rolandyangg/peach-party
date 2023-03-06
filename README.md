@@ -7,7 +7,7 @@ Demonstrates understanding of Object-Oriented Programming: Inheritance, Polymorp
 
 ![image](https://user-images.githubusercontent.com/42717361/223283218-ab957050-c3b9-40c0-8309-db0e08bb506e.png)
 
-Files coded from scratch:
+Files created from scratch:
 - Actor.cpp
 - Actor.h
 - StudentWorld.cpp
